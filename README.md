@@ -1,4 +1,17 @@
-# stock-trader
+Stock Trader
+==============
+
+## Descrição
+```
+Implementação do projeto de finalização do curso vuejs 2 da udemy.
+```
+
+### Tecnologias usadas
+1. Vue2
+2. VueRouter
+3. VueEx
+4. axios
+5. google firebase
 
 ## Project setup
 ```
@@ -13,16 +26,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
