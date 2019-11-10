@@ -7,8 +7,9 @@ Um simulador de compra e venda de ações.
 1. Vue2
 2. VueRouter
 3. VueEx
-4. axios
-5. google firebase
+4. Vuetify
+5. axios
+6. google firebase
 
 ## Project setup
 ```
