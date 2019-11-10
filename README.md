@@ -2,9 +2,7 @@ Stock Trader
 ==============
 
 ## Descrição
-```
 Implementação do projeto de finalização do curso vuejs 2 da udemy.
-```
 
 ### Tecnologias usadas
 1. Vue2
