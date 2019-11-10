@@ -1,6 +1,7 @@
 Stock Trader
 ==============
-Implementação do projeto de finalização do curso vuejs 2 da udemy.
+Projeto final do curso vuejs 2 da udemy.
+Um simulador de compra e venda de ações.
 
 ### Tecnologias usadas
 1. Vue2
@@ -23,6 +24,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
